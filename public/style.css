@@ -117,3 +117,19 @@ h1.info {
   text-align: center;
   color: #ff0000;
 }
+h2.hello
+{
+  text-align: center;
+  color: #030004;
+  font-size: 30px;
+  font-style: unset;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font: bolder;
+}
+h6.nahidul {
+  text-align: center;
+  color: #ea47b1;
+  position: static;
+  font-style: italic;
+  font-size: small;
+}
