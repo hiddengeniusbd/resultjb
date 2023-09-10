@@ -126,10 +126,3 @@ h2.hello
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font: bolder;
 }
-h6.nahidul {
-  text-align: center;
-  color: #ea47b1;
-  position: static;
-  font-style: italic;
-  font-size: small;
-}
