@@ -130,7 +130,7 @@ function printResult() {
   var result = document.getElementById("resutl_sheet").innerHTML;
   var head = `<div class="head" id="head">
   <div class="head_scetion" style="width: 650px; text-align: center; margin: 0px auto;">
-      <img src="logo.png" style="height: 80px;">
+      <img src="https://cdn.kmnahidulislam.com/logo.png" style="height: 80px;">
       <h1 style="font-size: 20px; margin: 0px;">Board of Intermediate &amp; Secondary Education, Jashore</h1>
       <h3 style="border-bottom: 1px dashed #AAAAAA; display: inline-block; font-weight: normal; margin-bottom: 10px;  padding: 0 20px;  text-align: center;">${resultHeader}</h3>
   </div>
